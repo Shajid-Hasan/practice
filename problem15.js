@@ -9,3 +9,4 @@ for(var key in myObject){
     var value = myObject[key];
     console.log("key: " + key + " | Type: ", typeof value);
 }
+
